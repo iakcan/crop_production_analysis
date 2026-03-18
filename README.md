@@ -153,7 +153,7 @@ The dataset contains:
 
 ## ⚡ Implementation
 
-All analysis steps are available in the project files.
+The model implementation is available in the `notebooks/Crop_Production.ipynb` directory.
 
 ---
 
